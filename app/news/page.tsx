@@ -68,8 +68,6 @@ export default function News() {
     },
   ];
 
-  const categories = ['All', 'Celebration', 'Achievement', 'Admissions', 'Learning', 'Programs', 'Community'];
-
   return (
     <>
       <Header />
