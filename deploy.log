@@ -1,0 +1,60 @@
+Vercel CLI 56.3.1 (Node.js 24.14.1)
+Retrieving project…
+Deploying stonewallcsfoundation-2194s-projects/cloudford
+Uploading [--------------------] (0.0B/7.8KB)
+Uploading [=====---------------] (2.1KB/7.8KB)
+Uploading [=================---] (6.8KB/7.8KB)
+Uploading [====================] (7.8KB/7.8KB)
+  Inspect         https://vercel.com/stonewallcsfoundation-2194s-projects/cloudford/ChqKi49bUN9PrUJpYGvxSvRtkd4J
+  Production      https://cloudford-9jyow79cx-stonewallcsfoundation-2194s-projects.vercel.app
+https://cloudford-9jyow79cx-stonewallcsfoundation-2194s-projects.vercel.appBuilding…
+Running build in Washington, D.C., USA (East) – iad1
+Build machine configuration: 2 cores, 8 GB
+Retrieving list of deployment files...
+Downloading 24 deployment files...
+Downloading 24 deployment files...
+Restored build cache from previous deployment (6NtuxBvN8VDZ7uoBwg43ov3T8dg3)
+Running "vercel build"
+Vercel CLI 56.2.0
+Installing dependencies...
+up to date in 557ms
+15 packages are looking for funding
+run `npm fund` for details
+> cloudfordschool@0.1.0 build
+> next build
+⚠ Invalid next.config.js options detected:
+⚠     Unrecognized key(s) in object: 'swcMinify'
+⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+▲ Next.js 16.2.10 (Turbopack)
+Creating an optimized production build ...
+✓ Compiled successfully in 6.8s
+Running TypeScript ...
+Finished TypeScript in 3.4s ...
+Collecting page data using 1 worker ...
+Generating static pages using 1 worker (0/9) ...
+Generating static pages using 1 worker (2/9)
+Generating static pages using 1 worker (4/9)
+Generating static pages using 1 worker (6/9)
+✓ Generating static pages using 1 worker (9/9) in 243ms
+Finalizing page optimization ...
+Route (app)
+┌ ○ /
+├ ○ /_not-found
+├ ○ /about
+├ ○ /admissions
+├ ○ /contact
+├ ○ /gallery
+├ ○ /news
+└ ○ /sitemap.xml
+○  (Static)  prerendered as static content
+Build Completed in /vercel/output [14s]
+Deploying outputs...
+[2K[1A[2K[G  Production      https://cloudford-9jyow79cx-stonewallcsfoundation-2194s-projects.vercel.app
+Completing…
+▲ Aliased         https://cloudford.vercel.app
+
+✓ Ready in 46s
