@@ -3,15 +3,5 @@
   "outputDirectory": ".next",
   "env": {
     "NEXT_PUBLIC_SITE_URL": "https://cloudfordschool.com"
-  },
-  "domains": [
-    "cloudfordschool.com",
-    "www.cloudfordschool.com"
-  ],
-  "redirects": [
-    {
-      "source": "/:path*",
-      "destination": "/:path*"
-    }
-  ]
+  }
 }
